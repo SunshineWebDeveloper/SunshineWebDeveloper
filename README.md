@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SunshineWebDeveloper
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning Free Code Camp
-- 💞️ I’m looking to collaborate on anything
+-  I’m interested in Cyber Security
+-  I’m currently in a ThriveDX Program
+-  I’m looking to collaborate on anything
 - 📫 How to reach me tjremotework@gmail.com
